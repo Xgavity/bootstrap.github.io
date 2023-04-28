@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(216, 216, 216);
+    
+}
+.bg-dark{
+    background-color: black;
+}
+
+/* footer{
+    height: 300px;
+    width: 100%;
+    background-color: rgba(64,215,159,255);
+} */
+
+.container-fluid{
+    background-color: black;
+    color: white;
+    font-family: 'Abel', sans-serif;
+}
+
+.nav-item{
+    color: white;
+}
+
+.title-div{
+    width: 100%;
+    height: 500px;
+    background-color: rgba(64,215,159,255);
+    padding-top: 50px;
+
+}
+
+#title{
+    opacity: 70%;
+    font-size: 80px;
+    color: white;
+    font-family: 'Inter', sans-serif;
+    padding: 30px;
+}
+
+.outer-class > p{
+    font-size: 20px;
+}
+
+.outer-class{
+    width: 700px;
+    height: auto;
+}
+.col{
+    text-align: center;
+}
+
+.col > button{
+    margin-bottom: 20px;
+}
+.Fimg{
+    width: 250px;
+    height: 270px;
+    background-color: rgb(201, 201, 201);
+    font-size: 50px;
+}
+
+.Fimg > img{
+    width: 250px;
+    height: 300px;
+}
+.container{
+    margin-top: 50px;
+    margin-bottom: 100px;
+    background-color: white;
+}
+
+.row{
+    padding-top: 100px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.name{
+    font-weight: 900;
+    color: rgba(64,215,159,255);
+    font-size: 25px;
+}
+
+.death{
+    width: auto;
+    height: 450px;
+}
+
+h1{
+    font-family: 'Bebas Neue', cursive;
+}
+
+.class{
+    font-family: 'Bebas Neue', cursive;
+}
